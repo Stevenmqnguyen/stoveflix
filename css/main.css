@@ -9,8 +9,6 @@ a {
     color: inherit;
     text-decoration: inherit;
     text-align: center;
-    line-height: 2em;
-    margin: none;
 }
 
 p, li {
@@ -49,6 +47,9 @@ h2 {
 nav {
     margin: 1em;
     font-size: 1.25em;
+    line-height: 2em;
+    margin: none;
+
 }
 @media (min-width:600px){
     nav {
